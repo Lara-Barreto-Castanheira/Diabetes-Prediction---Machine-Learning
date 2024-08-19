@@ -1,5 +1,4 @@
 ! [Logo](https://github.com/Lara-Barreto-Castanheira/Diabetes-Prediction---Machine-Learning/blob/main/diabetes%20banner.png)
-
 # Diabetes Prediction - Machine Learning
 
 ## Project Overview
