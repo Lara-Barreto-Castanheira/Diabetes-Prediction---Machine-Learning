@@ -10,11 +10,11 @@ The libraries needed for this project can be found in the ‘requirements.txt’
 ## Installation
 To install the necessary packages in the terminal, you can use pip, which is Python's package manager. Here are the commands to install each package mentioned:
 
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install numpy
-pip instal scikit-learn
+* pip install pandas
+* pip install matplotlib
+* pip install seaborn
+* pip install numpy
+* pip instal scikit-learn
 
 Once you have installed these packages, you can use them in your Python code without any problems. If you're already using a virtual environment (‘conda’), make sure it's activated before running the pip commands to install the packages in the correct environment.
 
